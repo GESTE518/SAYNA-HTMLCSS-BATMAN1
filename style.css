@@ -1,0 +1,324 @@
+*{margin: 0%;
+   margin-right: 0cm;
+   padding: 0%;
+   }
+ body{
+   text-align: center;
+    background: #000;
+    color:#FFFFFF;
+    height: 1030%;
+
+ }
+ .Boite1 {
+   background-image: url("Assets/Illustrations/Bathome1.png") ;
+   background-position:top;
+   background-size: 96%;
+   background-repeat: no-repeat;
+   width:112.68%;
+   height: 20cm;
+   text-align: center;
+}
+ .Boite3 {
+   border: 1px solid #BCBBBD;
+   margin-left: 102px;
+   margin-right: 102px;
+   padding-bottom: 2cm;
+   padding-top: 1cm;
+   padding-left: 1cm;
+   padding-right: 1cm;
+   border-top: none;
+   display: flex;
+   justify-content: space-between;
+ }
+ .Boite3 a {
+   font-size: 20px;
+   font-style:Medium;
+   text-decoration: underline;
+   color: #FFFFFF;
+ }
+  .Boite3 a img {
+   width: 2cm;
+ }
+.Boite4{
+   text-align: justify;
+   border: 1px solid #BCBBBD;
+   margin-left: 102px;
+   margin-right: 102px;
+   padding-left: 1cm;
+   padding-right: 2cm;
+   width: 72.2%;
+   height: 1050%;
+   padding-top: 132px;
+   position: absolute;
+   top:3.81cm;
+
+
+}
+.Boite4 .Rem {
+   padding:auto ;
+   text-align: center;
+   text-decoration: white;
+}
+ .Boite4 .Rem .Boite5 {
+   display: flex;
+  justify-content: center;
+}
+ .Boite4 .Rem .Boite5 .b1, .b2 {
+   width:3cm ;
+   height: 0.5cm;
+   background:linear-gradient( 80deg,var(--gradient-banche), var(--gradient-violet));
+   padding:0.3cm;
+   margin-left: 1cm;
+   color: #FFFFFF;
+   text-decoration:none;
+   border: 1px  #FFFFFF;
+}
+ .Boite4 .Boite6 {
+   float: right;
+   position: absolute;
+   top: 120px;
+   left:87% ;
+}
+ .Boite4 .Boite6 img{
+   width: 1.2cm;
+   padding-top: 0.5cm;
+   display: block;
+   padding-left:75%;
+}
+ .Boite4 .Boite6 .Boite61 {
+   padding-left:1.5cm;
+}
+ .Boite4 .Boite6 .Boite61 img {
+   width:0.4cm;
+}
+ .Boite4 .Boite7 {
+   display: inline-flex; 
+   justify-content: center;
+}
+.Boite4 .Boite7 figure img {
+   width: 4cm;
+   height: 6cm;
+   padding-top: 0cm;
+   margin-left:1cm ;
+  padding-right:-2cm;
+}
+.Boite4 .Boite7 figure figcaption {
+   margin-left:1cm ;
+   text-align: center;
+   font-size: 9px;
+   font-family: Bold;
+}
+ .Boite4 .Bathome13 img{
+   margin-left: 2cm;
+   margin-bottom: -1cm;
+   width: 2cm;
+   height: 2cm;
+}
+.Boite4 .Boite8 {
+   display: flex;
+   justify-content: center;
+}
+ .Boite4 .Boite8 img{
+   width: 1cm;
+}
+.Boite4 .Boite11 {
+   width: 15.5cm;
+   padding-top: 1cm;
+   display: flex;
+}
+.Boite4 .Boite11  .fig1 {
+   padding-top: 2cm;
+   padding-right: 2cm;
+}
+ .Boite4 .Boite11 .fig2 {
+   padding-top: 2cm;
+   padding-left: 2cm;
+}
+.Boite4 .Boite11  figure img  {
+   width: 0.5cm;
+   height: 0.5cm;
+}
+.Boite4 .Boite11  a img {
+   width: 2cm;
+   height: 4.83cm;
+}
+.Boite4 .Boite11  .Boite12{
+   border: 1px solid #BCBBBD;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+   background:linear-gradient( 80deg,var(--gradient-banche), var(--bleu));
+   padding: 15px;
+   width: 9cm;
+   height: 4cm;
+   font-family: Regular;
+   font-size: 12px;
+}
+.Boite4 section {
+   display: inline-flex;
+   justify-content: center;
+   position: absolute;
+   top: 78cm;
+}
+.Boite4 section img {
+   width: 16cm;
+   height: 7cm;
+}
+.Boite4 footer {
+   text-align: center;
+   margin-top: 120%;
+}
+.Boite4 footer img {
+   width: 0.8cm;
+}
+.Boite4 footer .G1 {
+   margin-left: -12cm;
+}
+.Boite4 footer .G2 {
+   margin-left: 12cm;
+}
+.Boite4 footer p {
+   font-size: 12px;
+   font-family:Regular;
+}
+.Boite4 footer div {
+   font-size: 9px;
+   font-family:Bold;
+}
+.Boite4 footer span {
+   font-size: 6px;
+   font-family:Bold;
+}
+.Boite4 footer .G3 {
+   width: 0.2cm;
+}
+.Boite9 {
+   display: flex;
+   position: absolute;
+   top: 42.5cm;
+   left: 78%;
+}
+.Boite9 img{
+   width: 6cm;
+   height: 4cm;
+}
+.Boite10 {
+   display: flex;
+   position: absolute;
+   top: 65cm;
+   margin-left: 1.3cm;
+   margin-right: 1cm;
+}
+.Boite10 img{
+   width:21cm;
+   height: 9cm;
+}
+.Boite4 .B6 {
+   position: absolute;
+   right: 0cm;
+   left: -4%;
+   text-align: justify;
+   width:75%;
+   height:11cm;
+   padding-top: 0.5cm;
+   padding-left: 3cm;
+   padding-right: 3cm;
+   margin-top:28%;
+   background:linear-gradient( 80deg,var(--gradient-banche), var(--bleu));
+   overflow: hidden;
+}
+.Boite4 .B6 h3 {
+   text-align: center;
+}
+.Boite4 .B6 .BoiteA {
+   display: flex;
+  justify-content: center;
+}
+.Boite4 .B6 .BoiteA .b1 , .d2 , .b3 {
+   text-align: center;
+   width: 3cm;
+   height: 0.6cm;
+   padding-top:0.2cm;
+   margin-left: 1cm;
+   color: #FFFFFF;
+   text-decoration:none;
+   border: 1px solid #FFFFFF;
+}
+.Boite4 .B6 .BoiteB {
+   display: flex;
+  justify-content: center;
+}
+.Boite4 .B6 .BoiteB .B1 {
+   background:linear-gradient( 80deg,var(--gradient-banche), var(--gradient-violet));
+   text-align: center;
+   width: 4cm;
+   height: 0.6cm;
+   padding-top:0.2cm;
+   margin-left: 1cm;
+   color: #FFFFFF;
+   text-decoration:none;
+   border: 1px solid #FFFFFF;
+}
+.Boite4 .B6 .BoiteC {
+   display: flex;
+  justify-content: center;
+}
+.Boite4 .B6 .BoiteC ,.b1 , .o2 , .d3 ,.b4 ,.b5 ,.b6 {
+   width: 3cm;
+   height: 0.6cm;
+   padding-top:0.2cm;
+   margin-left: 0.5cm;
+   text-decoration: none;
+}
+.Boite4 .B6 .BoiteC ,.b4 img , .b5 img ,.b6 img {
+   width:0.3cm;
+}
+.Boite4 .B6 .BoiteC,.b1 img , .o2 img , .d3 img {
+   width:0.5cm;
+}
+
+@media  (max-width:500px) {
+   .Boite1 {width:500px;}
+   .Boite4 {width:500px;}
+   body { width:600px ;}
+}
+:root{
+   --jaune:#FFFF00;
+   --jaune-blanche:#F8F184;
+   --gradient-banche:#eddebf;
+   --bleu:#19587d;
+   --gradient-violet:#890009;
+   --gris:#C4C4C4;
+   --Noir:#000000;
+   --blanche:#FFFFFF;
+   --Rouge:#B11313;
+   --Noir2:#0D0E09;
+
+}
+input[type="email"], input[type="text"],textarea {
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   border-bottom: 1px solid #BCBBBD ;
+   background-color: transparent;
+   width: 80%;
+   font-size: 12px;
+   color: #FFFFFF;
+
+}
+.Boite4 .B6 .B7 {
+   font-size: 12px;
+}
+input[type="checkbox"] ,.B7{
+   display:inline-block; 
+}
+input[type="checkbox"] {
+   position: relative;
+   left: -50%;
+   top: 3.5px;
+}
+.Boite4 .B6 img {
+   width: 0.3cm;
+   transform: rotate(90deg);
+   margin-left: -0.3cm;
+   background-color:#BCBBBD;
+}
